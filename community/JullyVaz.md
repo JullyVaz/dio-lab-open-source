@@ -23,7 +23,7 @@ Estou buscando uma transição de carreira para a área de tecnologia da informa
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 
 
-<div align="center">
+<h3 align="left">
 <h3>📊 Github Analytics</h3>
 
   <img width="40%" height="195px" src= "https://github-readme-stats.vercel.app/api?username=JullyVaz&show_icons=true&theme=tokyonight" /> 
