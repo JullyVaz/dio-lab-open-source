@@ -7,10 +7,12 @@ Estou buscando uma transição de carreira para a área de tecnologia da informa
 
 
 
+
 ## Conecte-se comigo
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/juliane-vaz/)
+
 
 
 
@@ -29,11 +31,13 @@ Estou buscando uma transição de carreira para a área de tecnologia da informa
 
 
 
+
  <h3>📊 Github Analytics</h3>
 <div align="center">
   <img width="45%" height="195px" src= "https://github-readme-stats.vercel.app/api?username=JullyVaz&show_icons=true&theme=tokyonight" /> 
   <img width="40%" height="195px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=JullyVaz&layout=compact&theme=tokyonight"/>
 </div>
+
 
 
 
