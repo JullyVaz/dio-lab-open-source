@@ -26,7 +26,7 @@ Estou buscando uma transição de carreira para a área de tecnologia da informa
 ## GitHub Stats
 
 <img width="49%" height="195px" src= "https://github-readme-stats.vercel.app/api?username=JullyVaz&show_icons=true&theme=tokyonight" /> 
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiano-Thimotheo&theme=nord&layout=compact&hide_border=true)
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=JullyVaz&theme=nord&layout=compact&hide_border=true)
 
 </div>
 
