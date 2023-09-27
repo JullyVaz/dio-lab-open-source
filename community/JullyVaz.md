@@ -11,6 +11,7 @@ Estou buscando uma transição de carreira para a área de tecnologia da informa
 
 
 
+
 <h3 align="left">Linguagens e ferramentas:</h3>
 
 <p align="left"> 	<p align="left"> 
@@ -23,9 +24,11 @@ Estou buscando uma transição de carreira para a área de tecnologia da informa
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 
 
+
 <h3 align="left">
 <h3>📊 Github Analytics</h3>
 
+<div align="center">
   <img width="40%" height="195px" src= "https://github-readme-stats.vercel.app/api?username=JullyVaz&show_icons=true&theme=tokyonight" /> 
   <img width="40%" height="195px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=JullyVaz&layout=compact&theme=tokyonight"/>
 </div>
