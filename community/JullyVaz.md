@@ -15,7 +15,7 @@ Estou buscando uma transição de carreira para a área de tecnologia da informa
 
 
 
-##Linguagens e ferramentas
+## Linguagens e ferramentas
 
 <p align="left"> 	<p align="left"> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 	  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img 
@@ -30,10 +30,11 @@ Estou buscando uma transição de carreira para a área de tecnologia da informa
 
 
  <h3>📊 Github Analytics</h3>
-
+<div align="center">
   <img width="45%" height="195px" src= "https://github-readme-stats.vercel.app/api?username=JullyVaz&show_icons=true&theme=tokyonight" /> 
   <img width="40%" height="195px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=JullyVaz&layout=compact&theme=tokyonight"/>
 </div>
+
 
 
 ## Minhas contribuições
