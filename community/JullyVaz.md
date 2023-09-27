@@ -6,6 +6,7 @@ Olá, sou técnica em Processamento de dados e em Dezembro/2022 eu concluí o cu
 Estou buscando uma transição de carreira para a área de tecnologia da informação.
 
 
+
 ## Conecte-se comigo
 
 
@@ -14,7 +15,7 @@ Estou buscando uma transição de carreira para a área de tecnologia da informa
 
 
 
-<div align="left">Linguagens e ferramentas:</h3>
+##Linguagens e ferramentas
 
 <p align="left"> 	<p align="left"> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 	  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img 
@@ -27,7 +28,7 @@ Estou buscando uma transição de carreira para a área de tecnologia da informa
 
 
 
-<h3>📊 Github Analytics</h3>
+## 📊 Github Analytics
 
   <img width="45%" height="195px" src= "https://github-readme-stats.vercel.app/api?username=JullyVaz&show_icons=true&theme=tokyonight" /> 
   <img width="40%" height="195px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=JullyVaz&layout=compact&theme=tokyonight"/>
