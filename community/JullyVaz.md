@@ -1,21 +1,20 @@
-<div align="center">
+
 ## Juliane Vaz
 
-<div align="center">
 Olá, sou técnica em Processamento de dados e em Dezembro/2022 eu concluí o curso de Análise e Desenvolvimento de Sistemas.
 
 Estou buscando uma transição de carreira para a área de tecnologia da informação.
 
-<div align="center">
+
 ## Conecte-se comigo
 
-<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/juliane-vaz/)
 
 
 
 
-<div align="center">Linguagens e ferramentas:</h3>
+<div align="left">Linguagens e ferramentas:</h3>
 
 <p align="left"> 	<p align="left"> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 	  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img 
@@ -28,16 +27,14 @@ Estou buscando uma transição de carreira para a área de tecnologia da informa
 
 
 
-<div align="center">
 <h3>📊 Github Analytics</h3>
 
-<div align="center">
-  <img width="40%" height="195px" src= "https://github-readme-stats.vercel.app/api?username=JullyVaz&show_icons=true&theme=tokyonight" /> 
+  <img width="45%" height="195px" src= "https://github-readme-stats.vercel.app/api?username=JullyVaz&show_icons=true&theme=tokyonight" /> 
   <img width="40%" height="195px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=JullyVaz&layout=compact&theme=tokyonight"/>
 </div>
 
-<div align="center">
+
 ## Minhas contribuições
 
-<div align="center">
+
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JullyVaz&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/JullyVaz/dio-lab-open-source)
