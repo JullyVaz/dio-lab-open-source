@@ -26,7 +26,7 @@ Estou buscando uma transição de carreira para a área de tecnologia da informa
 
 <h3>📊 Github Analytics</h3>
 
-  <img width="49%" height="195px" src= "https://github-readme-stats.vercel.app/api?username=JullyVaz&show_icons=true&theme=tokyonight" /> 
+  <img width="40%" height="195px" src= "https://github-readme-stats.vercel.app/api?username=JullyVaz&show_icons=true&theme=tokyonight" /> 
   <img width="40%" height="195px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=JullyVaz&layout=compact&theme=tokyonight"/>
 </div>
 
