@@ -28,4 +28,4 @@ Estou buscando uma transição de carreira para a área de tecnologia da informa
 
 ## Minhas contribuições
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JullyVaz&repo=dio-lab-open-source-fork&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/JullyVaz/dio-lab-open-source-fork)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JullyVaz&repo=dio-lab-open-source-fork&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/JullyVaz/dio-lab-open-source)
